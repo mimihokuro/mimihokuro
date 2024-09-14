@@ -1,6 +1,7 @@
 # Hi👋I'm mimihokuro
 
 I'm a web designer from Japan
+
 I have a technical blog, if you want to check it out.
 [みみほくろの小耳にはさむ話](https://mimihokuro.com/)
 
